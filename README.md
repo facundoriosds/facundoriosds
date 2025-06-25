@@ -20,7 +20,6 @@ I’m especially interested in how data can support better decisions in media, m
 ![SHAP](https://img.shields.io/badge/SHAP-FF7043?style=flat)
 
 
----
 
 ### 🚀 My Featured Projects
 * **[Customer Churn Prediction:](github.com/facundoriosds/Project-6-Customer-Churn-Prediction)**
