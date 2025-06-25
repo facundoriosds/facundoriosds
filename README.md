@@ -23,19 +23,19 @@ I’m especially interested in how data can support better decisions in media, m
 ---
 
 ### 🚀 My Featured Projects
-* **[Customer Churn Prediction:](github.com/facundoriosds/Project-6-Customer-Churn-Prediction)**
+* **[Customer Churn Prediction:](https://github.com/facundoriosds/Project-6-Customer-Churn-Prediction)**
 Analyzed customer information from a telecommunication company and created a Classification Model to predict their decision to stay or leave.  
    • Technologies used: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost.      
        
-* **[Customer Segmentation:](github.com/facundoriosds/Project-12-Store-Customer-Segmentation)**
+* **[Customer Segmentation:](https://github.com/facundoriosds/Project-12-Store-Customer-Segmentation)**
 Customer data engineering for a retail business using unsupervised clustering. Dimensionality reduction with PCA, K-means training, and 3D visualization.  
    • Technologies used: Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scikit-learn. 
 
-* **[House Pricing Prediction in CABA:](github.com/facundoriosds/Project-1-Buenos-Aires-House-Pricing-Prediction)**
+* **[House Pricing Prediction in CABA:](https://github.com/facundoriosds/Project-1-Buenos-Aires-House-Pricing-Prediction)**
 EDA of Buenos Aires City real state data, analysis and comparison of trafditional regression models (Linear Regression, KNN, Random Forest) to predict prices. A GBR model was finally selected based on its performance.  
    • Technologies used: Python, Pandas, Scikit-learn, Matplotlib, Seaborn. 
 
-* **[Buenos Aires Traffic Forecasting:](github.com/facundoriosds/Project-2-Buenos-Aires-Traffic-Forecasting)**
+* **[Buenos Aires Traffic Forecasting:](https://github.com/facundoriosds/Project-2-Buenos-Aires-Traffic-Forecasting)**
 Tested Random Forest and Gradient Boosting Regression algorithms for predicting the Illia Highway Toll Station traffic flow, and developed a traffic forecasting model using an XGBoost Regressor algorithm.  
    • Technologies used: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Statsmodels, XGBoost.
 
@@ -50,11 +50,11 @@ Currently working on new projects focused on media analytics and marketing perfo
 ---
 
 ### Other Proyects: 
-* **[Image Classifier](github.com/facundoriosds/Project-7-Image-Classifier)**
-* **[Marketing Strategy Evaluation]()**
-* **[Airbnb Rent Price Prediction](github.com/facundoriosds/Project-9-Airbnb-Rent-Price-Prediction)**
-* **[Credit Risk Classifier](github.com/facundoriosds/Project-8-Credit-Risk-Classifier)**
-* **[Credit Card Fraud Detection](github.com/facundoriosds/Project-3-Credit-Card-Fraud-Detection)**
+* **[Image Classifier](https://github.com/facundoriosds/Project-7-Image-Classifier)**
+* **[Marketing Strategy Evaluation](https://github.com/facundoriosds/Project-10-Marketing-Strategy)**
+* **[Airbnb Rent Price Prediction](https://github.com/facundoriosds/Project-9-Airbnb-Rent-Price-Prediction)**
+* **[Credit Risk Classifier](https://github.com/facundoriosds/Project-8-Credit-Risk-Classifier)**
+* **[Credit Card Fraud Detection](https://github.com/facundoriosds/Project-3-Credit-Card-Fraud-Detection)**
 * **[Energy Efficiency Building Design](https://github.com/facundoriosds/Project-5-Energy-Efficiency-Building-Design)**
 * **[Cryptocurrency Price Prediction](https://github.com/facundoriosds/Project-4-Cryptocurrency-Price-Prediction)**
 
