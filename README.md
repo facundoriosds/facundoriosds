@@ -20,7 +20,7 @@ I’m especially interested in how data can support better decisions in media, m
 ![LIME](https://img.shields.io/badge/LIME-0ABF53?style=flat)
 ![SHAP](https://img.shields.io/badge/SHAP-FF7043?style=flat)
 
-
+---
 
 ### 🚀 My Featured Projects
 * **[Customer Churn Prediction:](github.com/facundoriosds/Project-6-Customer-Churn-Prediction)**
@@ -39,12 +39,15 @@ EDA of Buenos Aires City real state data, analysis and comparison of trafditiona
 Tested Random Forest and Gradient Boosting Regression algorithms for predicting the Illia Highway Toll Station traffic flow, and developed a traffic forecasting model using an XGBoost Regressor algorithm.  
    • Technologies used: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Statsmodels, XGBoost.
 
+---
 
 ### 🔧 In Progress: Media & Marketing Projects
 
 Currently working on new projects focused on media analytics and marketing performance:
 - `Media Content Performance`: Analyzing engagement by type of video content.
 - `Ad Campaign ROI Tracker`: Interactive dashboard for online campaign performance.
+
+---
 
 ### Other Proyects: 
 * **[Image Classifier](github.com/facundoriosds/Project-7-Image-Classifier)**
