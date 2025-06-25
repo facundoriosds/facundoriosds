@@ -44,8 +44,8 @@ Tested Random Forest and Gradient Boosting Regression algorithms for predicting 
 ### 🔧 In Progress: Media & Marketing Projects
 
 Currently working on new projects focused on media analytics and marketing performance:
-- `Media Content Performance`: Analyzing engagement by type of video content.
-- `Ad Campaign ROI Tracker`: Interactive dashboard for online campaign performance.
+- **Media Content Performance**: Understand what, how, and where users in Argentina consume content; identify key trends and segments.
+- **Digital Marketing Campaign Performance Analysis**: Evaluation of digital campaigns between  platforms (Netflix, Star+, Amazon) to identify opportunities and improvements.
 
 ---
 
