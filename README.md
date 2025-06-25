@@ -47,13 +47,13 @@ Currently working on new projects focused on media analytics and marketing perfo
 - `Ad Campaign ROI Tracker`: Interactive dashboard for online campaign performance.
 
 ### Other Proyects: 
-* **[Image Classifier:](github.com/facundoriosds/Project-7-Image-Classifier)**
-* **[Marketing Strategy Evaluation:]()**
-* **[Airbnb Rent Price Prediction:](github.com/facundoriosds/Project-9-Airbnb-Rent-Price-Prediction)**
-* **[Credit Risk Classifier:](github.com/facundoriosds/Project-8-Credit-Risk-Classifier)**
-* **[Credit Card Fraud Detection :](github.com/facundoriosds/Project-3-Credit-Card-Fraud-Detection)**
-* **[Energy Efficiency Building Design :](https://github.com/facundoriosds/Project-5-Energy-Efficiency-Building-Design)**
-* **[Cryptocurrency Price Prediction:](https://github.com/facundoriosds/Project-4-Cryptocurrency-Price-Prediction)**
+* **[Image Classifier](github.com/facundoriosds/Project-7-Image-Classifier)**
+* **[Marketing Strategy Evaluation]()**
+* **[Airbnb Rent Price Prediction](github.com/facundoriosds/Project-9-Airbnb-Rent-Price-Prediction)**
+* **[Credit Risk Classifier](github.com/facundoriosds/Project-8-Credit-Risk-Classifier)**
+* **[Credit Card Fraud Detection](github.com/facundoriosds/Project-3-Credit-Card-Fraud-Detection)**
+* **[Energy Efficiency Building Design](https://github.com/facundoriosds/Project-5-Energy-Efficiency-Building-Design)**
+* **[Cryptocurrency Price Prediction](https://github.com/facundoriosds/Project-4-Cryptocurrency-Price-Prediction)**
 
 ---
 
