@@ -1,6 +1,7 @@
 👋 Hi, I’m Facundo Ríos, I’ve worked in film and audiovisual production for over 15 years, and more recently I’ve been focusing on data analytics.
 I’m especially interested in how data can support better decisions in media, marketing, and creative industries. 📊🎬
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -56,7 +57,7 @@ Currently working on new projects focused on media analytics and marketing perfo
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 * Buenos Aires, Argentina  
 * LinkedIn: **www.linkedin.com/in/facundoriosds**  
