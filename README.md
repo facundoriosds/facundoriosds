@@ -1,5 +1,5 @@
 I’m Facundo Ríos, I’ve worked in film and audiovisual production for over 15 years, and more recently I’ve been focusing on Data Analysis, AI and Automation.
-I’m especially interested in how Data & AI can support better decisions, transform the way we work and develop new solutions.
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
